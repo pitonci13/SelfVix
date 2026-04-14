@@ -8,7 +8,7 @@ import { generateLandingPage } from './landing';
 
 const manifest = {
     id: 'org.selfvix.simple',
-    version: '1.0.0',
+    version: '1.1.0',
     name: 'SelfVix🤌',
     description: 'Self VixSrc and VixCloud',
     logo: 'https://icv.stremio.dpdns.org/prisonmike.png',
